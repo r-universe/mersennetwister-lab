@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LowWAFOMNX"]
 	path = LowWAFOMNX
 	url = https://github.com/mersennetwister-lab/lowwafomnx
-	shallow = true
-	registered = true
 [submodule "LowWAFOMSobol"]
 	path = LowWAFOMSobol
 	url = https://github.com/mersennetwister-lab/lowwafomsobol
-	shallow = true
-	registered = true
