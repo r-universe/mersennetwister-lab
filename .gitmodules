@@ -5,3 +5,6 @@
 [submodule "LowWAFOMNX"]
 	path = LowWAFOMNX
 	url = https://github.com/mersennetwister-lab/lowwafomnx
+[submodule "LowWAFOMSobol"]
+	path = LowWAFOMSobol
+	url = https://github.com/mersennetwister-lab/lowwafomsobol
